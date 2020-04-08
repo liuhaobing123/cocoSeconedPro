@@ -1,0 +1,16 @@
+PODS:
+  - cocoCode (0.1.0)
+
+DEPENDENCIES:
+  - cocoCode (from `../`)
+
+EXTERNAL SOURCES:
+  cocoCode:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  cocoCode: e2e8c30080f7127ed9f09eb0736bddc6fca83f6e
+
+PODFILE CHECKSUM: c72e343cbf85da5ab7623090b3209aa7a20e1f4a
+
+COCOAPODS: 1.8.4
