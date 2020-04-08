@@ -1,6 +1,6 @@
 {
   "name": "cocoCode",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "二轮三次",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/liuhaobing123/cocoSeconedPro/tree/master",
@@ -13,7 +13,12 @@
   },
   "source": {
     "git": "https://github.com/liuhaobing123/cocoSeconedPro.git",
-    "tag": "0.1.0"
+    "tag": "0.3.0"
+  },
+  "dependencies": {
+    "Masonry": [
+
+    ]
   },
   "platforms": {
     "ios": "8.0"

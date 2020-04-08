@@ -1,14 +1,16 @@
 use_frameworks!
 
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://github.com/aliyun/aliyun-specs.git'
+
 platform :ios, '8.0'
 
 target 'cocoCode_Example' do
+  
   pod 'cocoCode', :path => '../'
   pod 'Masonry'
 
   target 'cocoCode_Tests' do
     inherit! :search_paths
 
-    
-  end
 end

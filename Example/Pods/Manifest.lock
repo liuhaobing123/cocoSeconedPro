@@ -1,5 +1,6 @@
 PODS:
-  - cocoCode (0.1.0)
+  - cocoCode (0.3.0):
+    - Masonry
   - Masonry (1.1.0)
 
 DEPENDENCIES:
@@ -15,9 +16,9 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  cocoCode: e2e8c30080f7127ed9f09eb0736bddc6fca83f6e
+  cocoCode: 68a24c711df4b756d39f350f1ab9beb1cb2d57e1
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
 
-PODFILE CHECKSUM: 586bd50fdb7cb37f217eea92f8f8de7968247089
+PODFILE CHECKSUM: 79da684b42f76f35ecd9510b7cb6b8ca5b5cf47f
 
 COCOAPODS: 1.8.4

@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'cocoCode'
-  s.version          = '0.3.0'
-  s.summary          = '二轮三次'
+  s.version          = '0.4.0'
+  s.summary          = '二轮四次'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/liuhaobing123/cocoSeconedPro/tree/master'
+  s.homepage         = 'https://github.com/liuhaobing123/cocoSeconedPro'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '1010480782@qq.com' => '1010480782@qq.com' }

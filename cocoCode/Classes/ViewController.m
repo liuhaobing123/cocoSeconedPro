@@ -22,9 +22,9 @@
     vi.backgroundColor = [UIColor redColor];
     [self.view addSubview:vi];
     [vi mas_makeConstraints:^(MASConstraintMaker *make) {
-        make.top.mas_equalTo(200);
+        make.top.mas_equalTo(300);
         make.left.right.mas_equalTo(0);
-        make.height.mas_equalTo(200);
+        make.height.mas_equalTo(300);
     }];
 }
 
